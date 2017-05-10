@@ -14,6 +14,7 @@ Projects:
 	lem_in
 	minishell
 	Expert_system
+	rush django
 	dr_quine
 	nm_otool
 	ftp

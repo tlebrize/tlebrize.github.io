@@ -1,5 +1,5 @@
 [Subject](https://cdn.intra.42.fr/pdf/pdf/881/fdf.en.pdf)
 [pyra](pyra.png)
 [42](42.png)
-[input](.png)
+[input](input.png)
 [mars](mars.png)
