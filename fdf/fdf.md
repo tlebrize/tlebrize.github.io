@@ -1,7 +1,8 @@
-[Subject](https://cdn.intra.42.fr/pdf/pdf/881/fdf.en.pdf)
-- ![pyra](pyra.png)
-- ![42](42.png)
-  - ```
+[zoom](pyra.png)
+![pyra](pyra.png)
+[zoom](42.png)
+![42](42.png)
+```
 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
 0  0 10 10  0  0 10 10  0  0  0 10 10 10 10 10  0  0  0
@@ -14,4 +15,6 @@
 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
 ```
-- ![mars](mars.png)
+[zoom](mars.png)
+![mars](mars.png)
+[Subject](https://cdn.intra.42.fr/pdf/pdf/881/fdf.en.pdf)
