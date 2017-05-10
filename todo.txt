@@ -1,0 +1,24 @@
+Presentation:
+	picture ?
+	student
+	liek learning and memes
+	dont liek front
+
+Contact:
+	full name
+	mail
+	phone
+
+Projects:
+	fdf
+	lem_in
+	minishell
+	Expert_system
+	dr_quine
+	nm_otool
+	ftp
+	irc
+
+Experience pro:
+	Pricing assitant
+	You ?
