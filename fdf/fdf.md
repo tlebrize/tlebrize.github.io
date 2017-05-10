@@ -23,11 +23,15 @@ __This is the input given to produce the picture above.__
 0   0   0   0   0   0   0   0   0   0   0   0   0   0   0   0
 ```
 
-__Two more examples :__
+__I decided to add colors depending on the altitude, they are choosed randomly.
+Two more examples :__
+
 ![pyra](pyra.png)
 
-__The colors are selected randomly.__
 ![mars](mars.png)
+
+![mars_zoom](mars_zoom.png)
+(zoomed in)
 
 
 [Subject](https://cdn.intra.42.fr/pdf/pdf/881/fdf.en.pdf)
