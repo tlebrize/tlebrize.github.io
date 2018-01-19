@@ -2,7 +2,7 @@ __This project is an introduction to graphic programming.
 The goal is to create a simplified graphic "wireframe" representation
 of a relief landscape, by linnking various points together.__
 
-__This project was written in C, usgin Minilibx as a graphical library.
+__Fdf project was written in C, usgin Minilibx as a graphical library.
 Minilibx is a really small graphical library, with it you can only draw pixels one
 by one on a 2D plane. I had to implement a line drawing and projection algorithm.__
 
